@@ -1,4 +1,8 @@
 #!/bin/bash
+#
+# Author: Rüdiger Schierz
+# Date: 2020-12-30
+#
 
 set -x
 
